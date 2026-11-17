@@ -50,6 +50,7 @@ SELECT ?film ?kp ?date WHERE {{
   ?film wdt:P2603 ?kp; wdt:P577 ?date.
   FILTER(?date >= "{since}T00:00:00Z"^^xsd:dateTime && ?date <= NOW())
   ?film wdt:P31 wd:Q11424.
+  FILTER NOT EXISTS {{ ?film wdt:P577 ?older. FILTER(?older < "{since}T00:00:00Z"^^xsd:dateTime) }}
 }} LIMIT 3000"""
     url = "https://query.wikidata.org/sparql?format=json&query=" + urllib.parse.quote(q)
     t0 = time.time()
