@@ -1,7 +1,7 @@
 {
- "versionCode": 20,
- "versionName": "3.8",
- "apk": "apk/Aurora-20.apk",
- "sha256": "fa3acc934a6f4352abc555c86a34f785385490183c06e58d86c18a1bb5c236f6",
- "notes": "• Нажатие на Wi‑Fi показывает сеть, уровень сигнала, диапазон, скорость и IP‑адрес"
+ "versionCode": 21,
+ "versionName": "3.9",
+ "apk": "apk/Aurora-21.apk",
+ "sha256": "959e2d75c26db173626fbb628d2489202c90c7ba9f2c65b3d6538a98d56f307c",
+ "notes": "• Кнопка Home открывает «Аврору» и на телевизорах Xiaomi, где главный экран нельзя сменить штатно"
 }
