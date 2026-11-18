@@ -1,7 +1,7 @@
 {
- "versionCode": 24,
- "versionName": "4.2",
- "apk": "apk/Aurora-24.apk",
- "sha256": "bdc91333ad8b57ba2a19cbc94672596c2c8ab748290fb780e1e808d27128458d",
- "notes": "• Исправлен возврат удалённых приложений, Play Маркет для невернувшихся\n• Настройки → Кино → «Моя волна»: изучить Кинопоиск"
+ "versionCode": 25,
+ "versionName": "4.3",
+ "apk": "apk/Aurora-25.apk",
+ "sha256": "fa7cefbd330bf8f5a6a3a9c1c2bd77aedb404e7ca64d65b3e6d0459da757f7cd",
+ "notes": "• Кнопка 🎵 сразу открывает раздел «Музыка» в Кинопоиске"
 }
