@@ -1,7 +1,7 @@
 {
- "versionCode": 25,
- "versionName": "4.3",
- "apk": "apk/Aurora-25.apk",
- "sha256": "fa7cefbd330bf8f5a6a3a9c1c2bd77aedb404e7ca64d65b3e6d0459da757f7cd",
- "notes": "• Кнопка 🎵 сразу открывает раздел «Музыка» в Кинопоиске"
+ "versionCode": 26,
+ "versionName": "4.4",
+ "apk": "apk/Aurora-26.apk",
+ "sha256": "6d6320354aa4749f431e16e2b1180be621648908de7c960806909123754a4241",
+ "notes": "• Bluetooth в пульте управления открывает «Пульты и аксессуары»"
 }
