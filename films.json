@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-23",
  "rows": [
   {
    "title": "🆕 Новинки",
@@ -7,10 +7,13 @@
     "Клэйфейс|2026",
     "Битва моторов|2026",
     "Диггер|2026",
+    "Сердце зверя|2026",
     "Гипотеза любви|2026",
     "Обитель зла|2026",
     "Восставший|2026",
     "Курьер|2026",
+    "Увидеть всё|2026",
+    "Тенцинг|2026",
     "Бегущая|2026",
     "Мятеж|2026",
     "Тони|2026",
@@ -18,12 +21,9 @@
     "Хитрый Койот|2026",
     "Зловещие мертвецы: Пекло|2026",
     "Моана|2026",
-    "Одиссея|2026",
     "Ночной бизнес|2026",
     "Давление|2026",
-    "Фьорд|2026",
-    "Колония|2026",
-    "Мандалорец и Грогу|2026"
+    "Фьорд|2026"
    ]
   },
   {
@@ -34,29 +34,30 @@
     "Август|2025",
     "Человек-паук: Новый день|2026",
     "Твоё сердце будет разбито|2026",
-    "Алиса в Стране чудес|2025",
+    "Майкл|2026",
     "Иллюзия обмана 3|2025",
-    "Балерина|2025",
+    "Алиса в Стране чудес|2025",
     "Грязные деньги|2026",
+    "Балерина|2025",
     "Холоп 3|2026",
     "Дракула|2025",
-    "Одиссея|2026",
-    "Невероятные приключения Шурика|2025",
+    "Сказка о царе Салтане (фильм, 2026)|2026",
     "Обсессия|2025",
+    "Невероятные приключения Шурика|2025",
     "Убежище|2026",
     "Новая тёща|2026",
     "Материалистка|2025",
     "Буратино|2026",
-    "Грабитель с крыши|2025",
-    "Вот это драма!|2026"
+    "Грабитель с крыши|2025"
    ]
   },
   {
    "title": "🏆 Лучшее за полтора года",
    "ids": [
     "Я ругаюсь|2025",
-    "Одиссея|2026",
+    "Проект «Конец света»|2026",
     "Ангелы Ладоги|2026",
+    "Майкл|2026",
     "Как приручить дракона|2025",
     "Человек-паук: Новый день|2026",
     "Семь вёрст до рассвета|2026",
@@ -69,11 +70,10 @@
     "Смешарики. Сквозь вселенные|2026",
     "Приключения жёлтого чемоданчика (фильм, 2026)|2026",
     "Хамнет|2025",
+    "Аватар: Пламя и пепел|2025",
     "Твоё сердце будет разбито|2026",
     "Давление|2026",
-    "Холоп 3|2026",
-    "Следствие ведут овечки|2026",
-    "Здесь был Юра|2026"
+    "Холоп 3|2026"
    ]
   }
  ],
@@ -127,6 +127,22 @@
    "descSource": "wikipedia",
    "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5463546.jpg",
    "trailer": "qMd8SbLDaDk"
+  },
+  {
+   "id": "Сердце зверя|2026",
+   "title": "Сердце зверя",
+   "year": 2026,
+   "country": "США",
+   "desc": "«Сердце зверя» — американский триллер режиссёра Дэвида Эйера по сценарию Кэмерона Александера. Главную роль в фильме исполнил Брэд Питт. Премьера фильма в кинотеатрах США состоялась 25 сентября 2026 года.",
+   "tags": [
+    "adventure"
+   ],
+   "kp": "7077372",
+   "kpr": 7.3,
+   "imdbr": 7.1,
+   "descSource": "wikipedia",
+   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/7077372.jpg",
+   "trailer": "_oXbLi9uKSg"
   },
   {
    "id": "Гипотеза любви|2026",
@@ -198,6 +214,38 @@
    "trailer": "CL2EW7WmeWo"
   },
   {
+   "id": "Увидеть всё|2026",
+   "title": "Увидеть всё",
+   "year": 2026,
+   "country": "США",
+   "desc": "«Увидеть всё» — американский документальный фильм 2026 года, срежиссированный Нейтаном Филдером и Лансом Оппенгеймом.",
+   "tags": [
+    "soul"
+   ],
+   "kp": "14001130",
+   "kpr": 8.5,
+   "imdbr": 9.0,
+   "descSource": "wikipedia",
+   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/14001130.jpg",
+   "trailer": "C2KafcR8s1k"
+  },
+  {
+   "id": "Тенцинг|2026",
+   "title": "Тенцинг",
+   "year": 2026,
+   "country": "США",
+   "desc": "«Тенцинг» — биографическая драма австралийского режиссёра Дженнифер Пидом о шерпе Тенцинге Норгее, с Томом Хиддлстоном в роли Эдмунда Хиллари и Уиллемом Дефо в роли Джона Ханта.",
+   "tags": [
+    "soul"
+   ],
+   "kp": "13421214",
+   "kpr": 7.3,
+   "imdbr": 7.4,
+   "descSource": "wikipedia",
+   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/13421214.jpg",
+   "trailer": "Sz2cyluXOu0"
+  },
+  {
    "id": "Бегущая|2026",
    "title": "Бегущая",
    "year": 2026,
@@ -209,7 +257,7 @@
    ],
    "kp": "6549627",
    "kpr": 7.0,
-   "imdbr": 4.2,
+   "imdbr": 4.3,
    "descSource": "wikipedia",
    "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/6549627.jpg",
    "trailer": "KzcrEwh6dl0"
@@ -229,7 +277,7 @@
    "imdbr": 5.7,
    "descSource": "wikipedia",
    "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5582050.jpg",
-   "trailer": "0NjBpBCDrp8"
+   "trailer": "pGol_osVaTE"
   },
   {
    "id": "Тони|2026",
@@ -241,7 +289,7 @@
     "soul"
    ],
    "kp": "12100082",
-   "kpr": 7.3,
+   "kpr": 7.2,
    "imdbr": 0.0,
    "descSource": "wikipedia",
    "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/12100082.jpg",
@@ -321,24 +369,6 @@
    "trailer": "tTtftyuS680"
   },
   {
-   "id": "Одиссея|2026",
-   "title": "Одиссея",
-   "year": 2026,
-   "country": "США",
-   "desc": "«Одиссея» — эпический фэнтезийный пеплум сценариста и режиссёра Кристофера Нолана, основанный на одноимённой поэме Гомера.",
-   "tags": [
-    "scifi",
-    "adventure",
-    "soul"
-   ],
-   "kp": "6385370",
-   "kpr": 8.0,
-   "imdbr": 8.4,
-   "descSource": "wikipedia",
-   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/6385370.jpg",
-   "trailer": "xjLLXdYldzA"
-  },
-  {
    "id": "Ночной бизнес|2026",
    "title": "Ночной бизнес",
    "year": 2026,
@@ -389,38 +419,6 @@
    "trailer": "4FVrtr9jw1Y"
   },
   {
-   "id": "Колония|2026",
-   "title": "Колония",
-   "year": 2026,
-   "country": "Республика Корея",
-   "desc": "«Колония» — южнокорейский боевик о зомби режиссёра и сценариста Ён Сан Хо при участии Чхве Гюсок в качестве соавтора. Главные роли исполнили Чон Джихён, Ку Гёхван, Чжи Чан Ук, Ким Синрок, Син Хёнбин и Ко Су.",
-   "tags": [
-    "thriller"
-   ],
-   "kp": "6705911",
-   "kpr": 6.6,
-   "imdbr": 6.5,
-   "descSource": "wikipedia",
-   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/6705911.jpg",
-   "trailer": "13oZt0QXQuY"
-  },
-  {
-   "id": "Мандалорец и Грогу|2026",
-   "title": "Мандалорец и Грогу",
-   "year": 2026,
-   "country": "США",
-   "desc": "«Мандалорец и Грогу» — американский художественный фильм в жанре космического вестерна режиссёра Джона Фавро. Проект является частью франшизы «Звёздные войны» и продолжает сюжет сериала «Мандалорец».",
-   "tags": [
-    "adventure"
-   ],
-   "kp": "5437088",
-   "kpr": 7.0,
-   "imdbr": 6.7,
-   "descSource": "wikipedia",
-   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5437088.jpg",
-   "trailer": "0ZDQTJYpHpc"
-  },
-  {
    "id": "Последний богатырь. Колобок|2026",
    "title": "Последний богатырь. Колобок",
    "year": 2026,
@@ -432,7 +430,7 @@
     "comedy"
    ],
    "kp": "8484833",
-   "kpr": 6.4,
+   "kpr": 6.5,
    "imdbr": 2.0,
    "descSource": "wikipedia",
    "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/8484833.jpg",
@@ -470,7 +468,7 @@
    "imdbr": 0.0,
    "descSource": "wikipedia",
    "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1234808.jpg",
-   "trailer": "obESJDYdZpU"
+   "trailer": "LO0pcFVWWXg"
   },
   {
    "id": "Твоё сердце будет разбито|2026",
@@ -486,23 +484,23 @@
    "imdbr": 0.0,
    "descSource": "wikipedia",
    "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/8290235.jpg",
-   "trailer": "lhZ9G9QqNjo"
+   "trailer": "5M3iZTsQrrY"
   },
   {
-   "id": "Алиса в Стране чудес|2025",
-   "title": "Алиса в Стране чудес",
-   "year": 2025,
-   "country": "Россия",
-   "desc": "«Алиса в стране чудес» — российский фильм-сказка 2025 года, снятый режиссёром Юрием Хмельницким. Сюжет и ряд персонажей отдаленно основаны на одноимённом произведении Льюиса Кэрролла.",
+   "id": "Майкл|2026",
+   "title": "Майкл",
+   "year": 2026,
+   "country": "США",
+   "desc": "«Майкл» — американский биографический музыкальный драматический фильм режиссёра Антуана Фукуа по сценарию Джона Логана о жизни и творчестве музыканта Майкла Джексона.",
    "tags": [
-    "family"
+    "soul"
    ],
-   "kp": "6218104",
-   "kpr": 6.3,
-   "imdbr": 0.0,
+   "kp": "5437614",
+   "kpr": 8.0,
+   "imdbr": 7.3,
    "descSource": "wikipedia",
-   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/6218104.jpg",
-   "trailer": "3L19nu6NLDM"
+   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5437614.jpg",
+   "trailer": "jGrXghp6wRY"
   },
   {
    "id": "Иллюзия обмана 3|2025",
@@ -521,21 +519,20 @@
    "trailer": "z3Kl3jubJ9I"
   },
   {
-   "id": "Балерина|2025",
-   "title": "Балерина",
+   "id": "Алиса в Стране чудес|2025",
+   "title": "Алиса в Стране чудес",
    "year": 2025,
-   "country": "США",
-   "desc": "«Балерина» — американский фильм в жанре остросюжетного боевика. Пятый фильм франшизы «Джон Уик» и её первый полнометражный спин-офф, события которого разворачиваются между третьей и четвёртой частями.",
+   "country": "Россия",
+   "desc": "«Алиса в стране чудес» — российский фильм-сказка 2025 года, снятый режиссёром Юрием Хмельницким. Сюжет и ряд персонажей отдаленно основаны на одноимённом произведении Льюиса Кэрролла.",
    "tags": [
-    "thriller",
-    "adventure"
+    "family"
    ],
-   "kp": "1047492",
-   "kpr": 7.2,
-   "imdbr": 6.8,
+   "kp": "6218104",
+   "kpr": 6.3,
+   "imdbr": 0.0,
    "descSource": "wikipedia",
-   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1047492.jpg",
-   "trailer": "I07NgjmlnSI"
+   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/6218104.jpg",
+   "trailer": "m8N1lHvNgEo"
   },
   {
    "id": "Грязные деньги|2026",
@@ -553,6 +550,23 @@
    "descSource": "wikipedia",
    "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5437609.jpg",
    "trailer": "4lbGUz8aafI"
+  },
+  {
+   "id": "Балерина|2025",
+   "title": "Балерина",
+   "year": 2025,
+   "country": "США",
+   "desc": "«Балерина» — американский фильм в жанре остросюжетного боевика. Пятый фильм франшизы «Джон Уик» и её первый полнометражный спин-офф, события которого разворачиваются между третьей и четвёртой частями.",
+   "tags": [
+    "thriller",
+    "adventure"
+   ],
+   "kp": "1047492",
+   "kpr": 7.2,
+   "imdbr": 6.8,
+   "descSource": "wikipedia",
+   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1047492.jpg",
+   "trailer": "I07NgjmlnSI"
   },
   {
    "id": "Холоп 3|2026",
@@ -589,21 +603,20 @@
    "trailer": "9ZV0TaSpiG8"
   },
   {
-   "id": "Невероятные приключения Шурика|2025",
-   "title": "Невероятные приключения Шурика",
-   "year": 2025,
+   "id": "Сказка о царе Салтане (фильм, 2026)|2026",
+   "title": "Сказка о царе Салтане (фильм, 2026)",
+   "year": 2026,
    "country": "Россия",
-   "desc": "«Невероятные приключения Шурика» — российская новогодняя музыкальная комедия 2025 года производства телеканала «ТНТ» и компании «Comedy Club Production», снятая режиссёрами Романом Кимом и Мишей Семичевым.",
+   "desc": "«Сказка о царе Салтане» — российский фэнтезийный фильм 2026 года, снятый режиссёром Сариком Андреасяном по мотивам одноимённой сказки Александра Сергеевича Пушкина.",
    "tags": [
-    "comedy",
-    "family"
+    "scifi"
    ],
-   "kp": "9026160",
-   "kpr": 6.4,
-   "imdbr": 4.1,
+   "kp": "5406497",
+   "kpr": 6.8,
+   "imdbr": 4.6,
    "descSource": "wikipedia",
-   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/9026160.jpg",
-   "trailer": "uZXTbUG1sMg"
+   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5406497.jpg",
+   "trailer": "u68DsqvHvWc"
   },
   {
    "id": "Обсессия|2025",
@@ -619,7 +632,24 @@
    "imdbr": 7.8,
    "descSource": "wikipedia",
    "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/10355286.jpg",
-   "trailer": "3laCMaJUEMQ"
+   "trailer": "Lc2NELHpI90"
+  },
+  {
+   "id": "Невероятные приключения Шурика|2025",
+   "title": "Невероятные приключения Шурика",
+   "year": 2025,
+   "country": "Россия",
+   "desc": "«Невероятные приключения Шурика» — российская новогодняя музыкальная комедия 2025 года производства телеканала «ТНТ» и компании «Comedy Club Production», снятая режиссёрами Романом Кимом и Мишей Семичевым.",
+   "tags": [
+    "comedy",
+    "family"
+   ],
+   "kp": "9026160",
+   "kpr": 6.4,
+   "imdbr": 4.1,
+   "descSource": "wikipedia",
+   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/9026160.jpg",
+   "trailer": "Vgmx9YBJ0rw"
   },
   {
    "id": "Убежище|2026",
@@ -683,7 +713,7 @@
    "kpr": 7.0,
    "imdbr": 0.0,
    "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5354680.jpg",
-   "trailer": "wbNkmDCZS94"
+   "trailer": "I_hNLgbbwzQ"
   },
   {
    "id": "Грабитель с крыши|2025",
@@ -704,23 +734,6 @@
    "trailer": "q91tD4ISnds"
   },
   {
-   "id": "Вот это драма!|2026",
-   "title": "Вот это драма!",
-   "year": 2026,
-   "country": "США",
-   "desc": "«Вот это драма!» — американская романтическая комедийная драма 2026 года режиссёра Кристоффера Боргли по его же сценарию. Главные роли исполнили Зендея и Роберт Паттинсон.",
-   "tags": [
-    "soul",
-    "comedy"
-   ],
-   "kp": "6530127",
-   "kpr": 6.6,
-   "imdbr": 7.1,
-   "descSource": "wikipedia",
-   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/6530127.jpg",
-   "trailer": "XL10ZgatSIY"
-  },
-  {
    "id": "Я ругаюсь|2025",
    "title": "Я ругаюсь",
    "year": 2025,
@@ -735,7 +748,24 @@
    "imdbr": 8.3,
    "descSource": "wikipedia",
    "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/8472578.jpg",
-   "trailer": "wDp_MjeVAg0"
+   "trailer": "Flk6GFFU7e4"
+  },
+  {
+   "id": "Проект «Конец света»|2026",
+   "title": "Проект «Конец света»",
+   "year": 2026,
+   "country": "США",
+   "desc": "«Проект „Конец света“» — американский научно-фантастический фильм 2026 года, снятый и спродюсированный Филом Лордом и Кристофером Миллером по сценарию Дрю Годдарда, основанному на романе Энди Вейера «Проект „Аве Мария“».",
+   "tags": [
+    "scifi",
+    "adventure"
+   ],
+   "kp": "1382256",
+   "kpr": 8.4,
+   "imdbr": 8.2,
+   "descSource": "wikipedia",
+   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1382256.jpg",
+   "trailer": "oRMf_DZAgFk"
   },
   {
    "id": "Ангелы Ладоги|2026",
@@ -752,7 +782,7 @@
    "imdbr": 0.0,
    "descSource": "wikipedia",
    "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5364874.jpg",
-   "trailer": "v5jPYojmXN0"
+   "trailer": "saYK97iC67E"
   },
   {
    "id": "Как приручить дракона|2025",
@@ -872,7 +902,7 @@
    "imdbr": 0.0,
    "descSource": "wikipedia",
    "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/6588324.jpg",
-   "trailer": "OlKaGjImuAU"
+   "trailer": "ELeXZ9Y-yKI"
   },
   {
    "id": "Хамнет|2025",
@@ -891,39 +921,21 @@
    "trailer": "9s7bOrWfmzM"
   },
   {
-   "id": "Следствие ведут овечки|2026",
-   "title": "Следствие ведут овечки",
-   "year": 2026,
+   "id": "Аватар: Пламя и пепел|2025",
+   "title": "Аватар: Пламя и пепел",
+   "year": 2025,
    "country": "США",
-   "desc": "«Следствие ведут овечки» — детективно-комедийный триллер 2026 года режиссёра Кайла Балды, снятый по сценарию Крейга Мейзина и основанный на романе Леони Свонн «Гленнкилл: следствие ведут овцы» 2005 года.",
+   "desc": "«Аватар: Пламя и пепел» — американский эпический научно-фантастический фильм режиссёра, продюсера, сценариста и монтажёра Джеймса Кэмерона. Это третий фильм во франшизе «Аватар», и продолжение фильма «Аватар: Путь воды».",
    "tags": [
-    "comedy",
-    "family",
-    "adventure"
+    "adventure",
+    "scifi"
    ],
-   "kp": "6447742",
+   "kp": "570402",
    "kpr": 7.5,
-   "imdbr": 7.3,
+   "imdbr": 7.2,
    "descSource": "wikipedia",
-   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/6447742.jpg",
-   "trailer": "E9tvwS7VrJY"
-  },
-  {
-   "id": "Здесь был Юра|2026",
-   "title": "Здесь был Юра",
-   "year": 2026,
-   "country": "Россия",
-   "desc": "«Здесь был Юра» — российская комедийная драма, режиссёрский дебют Сергея Малкина. Фильм получил гран-при и приз за лучшую мужскую роль кинофестиваля «Маяк» и премию «Белый слон» в номинации «Лучшая музыка» и «Событие года».",
-   "tags": [
-    "comedy",
-    "soul"
-   ],
-   "kp": "7781330",
-   "kpr": 7.5,
-   "imdbr": 6.8,
-   "descSource": "wikipedia",
-   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/7781330.jpg",
-   "trailer": "tYCi0t3Hmrs"
+   "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/570402.jpg",
+   "trailer": "2np4MTBRW_I"
   }
  ]
 }
